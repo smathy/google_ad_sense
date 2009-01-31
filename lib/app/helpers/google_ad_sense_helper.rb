@@ -7,6 +7,7 @@ module GoogleAdSenseHelper
 
   def google_ad(ad_format = @@config['format'])
     js_options = {}
+    ad_format = ad_format.to_s
     
     # public ad client number
     js_options[:ad_client] = @@config[:ad_client]
