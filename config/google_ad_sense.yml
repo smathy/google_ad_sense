@@ -1,0 +1,25 @@
+config:
+  ad_client: "pub-5044505066435851"
+  format: leader_board
+  type: ad
+  image: true
+  text: true
+  colors:
+    border: "eeeeee"
+    bg: "eeeeee"
+    link: "0000ff"
+    text: "000000"
+    url: "008000"
+  formats:
+    leader_board: "728x90"
+    banner: "468x60"
+    half_banner: "234x60"
+    skyscraper: "120x600"
+    wide_skyscaper: "160x600"
+    vertical_banner: "120x240"
+    large_rectangle: "336x280"
+    medium_rectangle: "300x250"
+    square: "250x250"
+    small_square: "200x200"
+    small_rectangle: "180x150"
+    button: "125x125"
