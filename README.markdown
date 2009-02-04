@@ -6,26 +6,29 @@ your config directory.  You can change all the parameters here.
 
 Available options are,
 
-	**ad_client**
-		*The special identifier given to you by google, you can find this under "My Account" in your Google AdSense login. (required)*
-	**format**
-		*How the ad will be displayed. The different formats are listed in `formats` (required)*
-	**type**
-		*Whether the ad shown is a "Ad Unit" or a "Link Unit". Specificied with `ad` or `link` respectively. (required)*
-	**image**
-		*Whether to use images for this ad. (optional)*
-	**text**
-		*Whether to use text for this ad. (optional)*
-	**colors**
-		*The different colors you can use to customer the ad. (optional)*
-	**width**
-		*The width of the ad. (optional)*
-	**height**
-		*The height of the ad. (optional)*
-	**ads_per_unit**
-		*The number of ads per unit, only used by a "Link Unit" ad.*
-	**formats**
-		*The formats that I've coded in, you can add more if you want.*
+    ad_client
+        The special identifier given to you by google, you can find this under
+        "My Account" in your Google AdSense login. (required)
+    format
+        How the ad will be displayed. The different formats are listed in
+        `formats` (required)
+    type
+        Whether the ad shown is a "Ad Unit" or a "Link Unit". Specificied with
+        `ad` or `link` respectively. (required)
+    image
+        Whether to use images for this ad. (optional)
+    text
+        Whether to use text for this ad. (optional)
+    colors
+        The different colors you can use to customer the ad. (optional)
+    width
+        The width of the ad. (optional)
+    height
+        The height of the ad. (optional)
+    ads_per_unit
+        The number of ads per unit, only used by a "Link Unit" ad.
+    formats
+        The formats that I've coded in, you can add more if you want.
 
 The different formats available include:
 
