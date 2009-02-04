@@ -6,8 +6,7 @@ your config directory.  You can change all the parameters here.
 
 Available options are,
 
-<dl>
-<dt>ad_client</dt>
+<dl><dt>ad_client</dt>
 <dd>The special identifier given to you by google, you can find this under "My Account" in your Google AdSense login. (required)</dd>
 <dt>format</dt>
 <dd>How the ad will be displayed. The different formats are listed in `formats` (required)</dd>
@@ -26,8 +25,7 @@ Available options are,
 <dt>ads_per_unit</dt>
 <dd>The number of ads per unit, only used by a "Link Unit" ad.</dd>
 <dt>formats</dt>
-<dd>The formats that I've coded in, you can add more if you want.</dd>
-</dl>
+<dd>The formats that I've coded in, you can add more if you want.</dd></dl>
 
 The different formats available include:
 
