@@ -6,26 +6,30 @@ your config directory.  You can change all the parameters here.
 
 Available options are,
 
-<dl><dt>ad_client</dt>
-<dd>The special identifier given to you by google, you can find this under "My Account" in your Google AdSense login. (required)</dd>
-<dt>format</dt>
-<dd>How the ad will be displayed. The different formats are listed in `formats` (required)</dd>
-<dt>type</dt>
-<dd>Whether the ad shown is a "Ad Unit" or a "Link Unit". Specificied with `ad` or `link` respectively. (required)</dd>
-<dt>image</dt>
-<dd>Whether to use images for this ad. (optional)</dd>
-<dt>text</dt>
-<dd>Whether to use text for this ad. (optional)</dd>
-<dt>colors</dt>
-<dd>The different colors you can use to customer the ad. (optional)</dd>
-<dt>width</dt>
-<dd>The width of the ad. (optional)</dd>
-<dt>height</dt>
-<dd>The height of the ad. (optional)</dd>
-<dt>ads_per_unit</dt>
-<dd>The number of ads per unit, only used by a "Link Unit" ad.</dd>
-<dt>formats</dt>
-<dd>The formats that I've coded in, you can add more if you want.</dd></dl>
+<dl>
+
+	<dt>ad_client</dt>
+		<dd>The special identifier given to you by google, you can find this under "My Account" in your Google AdSense login. (required)</dd>
+	<dt>format</dt>
+		<dd>How the ad will be displayed. The different formats are listed in `formats` (required)</dd>
+	<dt>type</dt>
+		<dd>Whether the ad shown is a "Ad Unit" or a "Link Unit". Specificied with `ad` or `link` respectively. (required)</dd>
+	<dt>image</dt>
+		<dd>Whether to use images for this ad. (optional)</dd>
+	<dt>text</dt>
+		<dd>Whether to use text for this ad. (optional)</dd>
+	<dt>colors</dt>
+		<dd>The different colors you can use to customer the ad. (optional)</dd>
+	<dt>width</dt>
+		<dd>The width of the ad. (optional)</dd>
+	<dt>height</dt>
+		<dd>The height of the ad. (optional)</dd>
+	<dt>ads_per_unit</dt>
+		<dd>The number of ads per unit, only used by a "Link Unit" ad.</dd>
+	<dt>formats</dt>
+		<dd>The formats that I've coded in, you can add more if you want.</dd>
+
+</dl>
 
 The different formats available include:
 
